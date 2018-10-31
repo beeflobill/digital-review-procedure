@@ -1,7 +1,11 @@
 # Digital Review Procedure
 
+https://github.com/beeflobill/digital-review-procedure
+
+
+
 1. Show and talk about the block list.
-  The block list shows all major blocks and describes the function of each in a few sentences.
+  The block list has all major blocks and briefly describes the function of each.
    
 2. Read each block spec:
    * Signal inputs and outputs (not necessarily all the inputs and outputs, just signals)
